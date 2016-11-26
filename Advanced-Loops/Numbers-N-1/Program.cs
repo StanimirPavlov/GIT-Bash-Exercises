@@ -10,12 +10,7 @@ namespace Numbers_N_1
     {
         static void Main(string[] args)
         {
-            var num = int.Parse(Console.ReadLine());
-
-            for (int outNum = num; outNum >= 1; outNum--)
-            {
-                Console.WriteLine(outNum);
-            }
+           
         }
     }
 }
